@@ -1,5 +1,11 @@
-d 'DEA': Data envelopment analysis
+d 'psmatch2': Mahalanobis and Propensity score Matching Use psmatch2 With STATA 18
 d
-f dea.ado
-f dea.sthlp
-f coelli_table6.4.dta
+f density2.ado
+f psgraph.ado
+f psgraph.sthlp
+f psmatch2.ado
+f psmatch2.dlg
+f psmatch2.sthlp
+f pstest.ado
+f pstest.sthlp
+f pstest2.ado
